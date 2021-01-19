@@ -1,4 +1,4 @@
 # SAMI-ML
 Repository for SAMI, HUST
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_Hust.png)
+![alt text](https://ts.hust.edu.vn/public/uploads/wt6e-logobk-bottom.png)
